@@ -11,7 +11,7 @@ npm start
 
 Run day 2's code
 ```sh
-npm start -- 8
+npm start -- 2
 ```
 
 Watch today's code
