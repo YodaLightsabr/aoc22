@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "aoc22",
+  "description": "My Advent of Code answers for 2022, with a helper script.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node watch.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yodalightsabr/aoc22.git"
+  },
+  "keywords": [
+    "aoc",
+    "advent-of-code",
+    "2022",
+    "cp"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yodalightsabr/aoc22/issues"
+  },
+  "homepage": "https://github.com/yodalightsabr/aoc22#readme"
+}
