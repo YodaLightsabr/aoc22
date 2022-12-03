@@ -28,6 +28,4 @@ npm run dev -- 2
 
 Day | Lines | Code
 ----|-------|-----
-Day 1 | 11 | [`./11/index.js`](https://github.com/YodaLightsabr/aoc22/blob/main/11/index.js)
-Day 2 | 18 | [`./18/index.js`](https://github.com/YodaLightsabr/aoc22/blob/main/18/index.js)
-Day 3 | 23 | [`./23/index.js`](https://github.com/YodaLightsabr/aoc22/blob/main/23/index.js)
+{{%stats%}}
